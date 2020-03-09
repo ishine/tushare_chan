@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea/
+stock_basic.csv
+
 # C extensions
 *.so
 
